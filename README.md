@@ -1,4 +1,4 @@
-# Battle-Camp-Combo-Maker
+﻿# Battle-Camp-Combo-Maker
 =====================================
 
 ![Screenshot](screenshot.png)
