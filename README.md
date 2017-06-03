@@ -5,7 +5,7 @@
 
 `Battle-Camp-Combo-Maker` is a Javascript application to find an optimal path leading to a high-combo move in Battle Camp.
 
-This is a modification from pndopt (Puzzle and Dragon Optimizer) by kennytm (https://github.com/kennytm)
+This is a modification from pndopt (Puzzle and Dragon Optimizer) by kennytm (https://github.com/kennytm). Go to https://revelationes.github.io/Battle-Camp-Combo-Maker/Battle-Camp-Combo-Maker.html for usage.
 
 Usage
 -----
